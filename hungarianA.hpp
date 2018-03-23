@@ -1,24 +1,4 @@
-/********************************************************************
- ********************************************************************
- ** C++ class implementation of the Hungarian algorithm by David Schwarz, 2012
- **
- **
- ** O(n^3) implementation derived from libhungarian by Cyrill Stachniss, 2004
- **
- **
- ** Solving the Minimum Assignment Problem using the 
- ** Hungarian Method.
- **
- ** ** This file may be freely copied and distributed! **
- **
- **
- ** This file is distributed in the hope that it will be useful,
- ** but WITHOUT ANY WARRANTY; without even the implied 
- ** warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
- ** PURPOSE.  
- **
- ********************************************************************
- ********************************************************************/
+
 
 #include <iostream>
 #include <vector>
